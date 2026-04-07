@@ -11,41 +11,67 @@ Early Tove Jansson/Moominvalley aesthetic. Fine, expressive black ink-line drawi
 ### 0. The Fool (Alan Watts)
 A man with a joyful, twinkling-eyed beard and a rucksack skipping toward a misty cliff. He is laughing at the sky. A small duckling is tugging at his trouser leg in warning.
 
+![The Fool - Alan Watts](the_fool_alan_watts.png)
+
 ### I. The Magician (Nikola Tesla)
 Tesla standing at a weathered wooden table with a vintage copper coil. Sparks of electricity above his hand take the shape of a glowing duck. A real duck sits on the table wearing a tiny wire monocle.
+
+![The Magician - Nikola Tesla](the_magician_nikola_tesla.png)
 
 ### II. The High Priestess (Hilma af Klint)
 Sitting in a mystical, quiet forest. She is painting a giant, abstract pastel circle on a canvas. Nearby, ducks swim in a pond, their ripples forming geometric spirals that match her art.
 
+![The High Priestess - Hilma af Klint](the_high_priestess_hilma_af_klint.png)
+
 ### III. The Empress (Catherine the Great)
 Sitting in a lush, overgrown garden on a velvet chair. She wears a heavy robe with a subtle duck-feather pattern. She holds a golden bowl overflowing with grain for a happy flock at her feet.
+
+![The Empress - Catherine the Great](the_empress_catherine_the_great.png)
 
 ### IV. The Emperor (Carl Linnaeus)
 Sitting on a mossy stone in a Swedish pine forest, writing in a large ledger. He is observing a group of ducks. Beside him, a large, regal Mallard stands like a royal guard.
 
+![The Emperor - Carl Linnaeus](the_emperor_carl_linnaeus.png)
+
 ### V. The Hierophant (The Dalai Lama)
 Sitting cross-legged under a Bodhi tree with a gentle smile. A duck is perched on each of his shoulders; they all look like they are sharing a silent, profound joke.
+
+![The Hierophant - The Dalai Lama](the_hierophant_dalai_lama.png)
 
 ### VI. The Lovers (Rumi)
 A poet standing in a swirling wind of rose petals. In the foreground, two ducks are tucked together under a willow tree, their necks leaning in to form a soft heart shape.
 
+![The Lovers - Rumi](the_lovers_rumi.png)
+
 ### VII. The Chariot (Amelia Earhart)
 Sitting in an open-cockpit plane made of weathered wood. The nose of the plane is shaped like a giant duck bill. She looks determined, flying through soft, stylized Moomin clouds.
+
+![The Chariot - Amelia Earhart](the_chariot_amelia_earhart.png)
 
 ### VIII. Strength (Malala Yousafzai)
 Standing in a field of wildflowers and tall grass. She is gently petting the head of a very large, wild, and temperamental-looking goose, taming it with a peaceful gaze.
 
+![Strength - Malala Yousafzai](strength_malala_yousafzai.png)
+
 ### IX. The Hermit (Friedrich Nietzsche)
 A man with a massive, bushy mustache sitting in a dark, cozy cave by a small lantern. He is staring intensely into the eyes of a duck. The duck is staring back, looking equally philosophical.
+
+![The Hermit - Friedrich Nietzsche](the_hermit_friedrich_nietzsche.png)
 
 ### X. Wheel of Fortune (Galileo Galilei)
 Looking through an old wooden telescope. The sky behind him is a giant spinning wheel of stars, but the planets are actually golden duck eggs orbiting a sun.
 
+![Wheel of Fortune - Galileo Galilei](wheel_of_fortune_galileo_galilei.png)
+
 ### XI. Justice (Nelson Mandela)
 Standing before a simple wooden table. On it is a scale: one side has a heavy iron weight, the other has a single white duck feather. The feather is lower, outweighing the iron.
 
+![Justice - Nelson Mandela](justice_nelson_mandela.png)
+
 ### XII. The Hanged Man (Emanuel Swedenborg)
 Hanging upside down by one foot from a magical Rowan tree. He looks perfectly serene, watching a duck swim "upside down" in the reflection of a still pond below him.
+
+![The Hanged Man - Emanuel Swedenborg](the_hanged_man_emanuel_swedenborg.png)
 
 ### XIII. Death (The Buddha)
 Sitting in meditation under a tree. In front of him, a duck is shedding its old, grey feathers, and shimmering, golden new ones are growing underneath.
