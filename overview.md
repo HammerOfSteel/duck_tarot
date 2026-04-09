@@ -76,29 +76,43 @@ Hanging upside down by one foot from a magical Rowan tree. He looks perfectly se
 ### XIII. Death (The Buddha)
 Sitting in meditation under a tree. In front of him, a duck is shedding its old, grey feathers, and shimmering, golden new ones are growing underneath.
 
+![Death - The Buddha](death_buddah.png)
+
 ### XIV. Temperance (Mahatma Gandhi)
 Sitting by a slow-moving river, pouring water from one ceramic jug to another. A duck is floating calmly in the stream exactly where the water lands.
 
 ### XV. The Devil (Edgar Allan Poe)
 Sitting in a dark, gothic library with ink stains everywhere. He is mesmerized by a "Raven-Duck" (a duck with pitch-black feathers) perched on a bust of Pallas. The duck is holding a piece of bread it refuses to share.
 
+![The Devil - Edgar Allan Poe](the_devil_edgar_alan_poe.png)
+
 ### XVI. The Tower (The Vasa Ship)
 The famous Swedish ship tilting in the water. Instead of disaster, the scene is whimsical: ducks are diving off the ornate wooden deck like it's a giant toy, salvaging bread from the water.
+
+![The Tower - The Vasa Ship](the_tower_vasa.png)
 
 ### XVII. The Star (Carl Sagan)
 Standing on a dark hill at night, pointing at a constellation shaped like a duck. "We are made of duck-stuff." The water below reflects the starlight in soft indigo washes.
 
+![The Star - Carl Sagan](the_start_carl_sagan.png)
+
 ### XVIII. The Moon (William Shakespeare)
 Standing on a dark stage lit by a giant moon with a duck’s face. He holds a white porcelain duck skull in his hand, looking at it pensively.
-
+![The Moon - William Shakespeare](the_moon_william_shakespeare.png)
 ### XIX. The Sun (ABBA)
 Four figures in glittery, 70s-style jumpsuits and tiny platform boots, dancing on a wooden Swedish jetty. A giant, smiling sun shines behind them, and four ducks in the water are mimicking their dance moves.
+
+![The Sun - ABBA](the_sun_ABBA.png)
 
 ### XX. Judgement (Ludwig van Beethoven)
 Standing on a craggy mountain top, conducting a storm. Instead of thunder, the "sound" is a massive, harmonious "QUACK" visualized in the clouds, waking the valley below.
 
+![Judgement - Ludwig van Beethoven](judgement_ludwig_van_beethoven.png)
+
 ### XXI. The World (David Attenborough)
 Standing in the center of a lush, green globe. He is surrounded by every species of duck—Mallards, Wood ducks, Teals—all living in a perfect, peaceful circle.
+
+![The World - David Attenborough](the_world_david_attenborough.png)
 
 ---
 
